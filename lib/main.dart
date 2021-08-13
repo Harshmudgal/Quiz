@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
   static const quest = [
     {
       'question': 'What is your favourite animal?',
-      'answer': ['Dog', 'Cat', 'Cryptus']
+      'answer': ['Dogggg', 'Cat', 'Cryptus']
     },
     {
       'question': 'What is you favourite food?',
